@@ -26,5 +26,5 @@ The specific pulses may exhibit variability contingent upon the electricity depa
 subject to modification within the Arduino code.
 
 
-<img src="images/Screenshot (9).png"">
+<img src="images/Screenshot (9).png">
 
