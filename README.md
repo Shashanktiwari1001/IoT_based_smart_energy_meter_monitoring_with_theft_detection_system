@@ -5,15 +5,15 @@ energy consumption of the consumer and identified instances of theft or tamperin
 energy metre. The system offered instantaneous monitoring of energy consumption, enabling 
 the user to monitor their usage and make informed decisions regarding energy consumption.
 
-<img src="images/Cover_pic.jpg" alt="">
+<img src="images/Screenshot (7).png">
 
 
-The hardware implementation of the project is depicted in Figure 6, wherein all the 
+The hardware implementation of the project is depicted in Figure, wherein all the 
 components are interconnected and the limit switch is positioned within the energy metre to 
 detect instances of theft.
 
 
-<img src="images/Cover_pic.jpg" alt="">
+<img src="images/Screenshot (8).png">
 
 
 Figure illustrates the operational state of the system, specifically when the Arduino is 
@@ -26,5 +26,5 @@ The specific pulses may exhibit variability contingent upon the electricity depa
 subject to modification within the Arduino code.
 
 
-<img src="images/Cover_pic.jpg" alt="">
+<img src="images/Screenshot (9).png"">
 
